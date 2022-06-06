@@ -7,6 +7,18 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/hls.min.js"></script>
+    <script>
+      XMLHttpRequest.prototype.originalOpen = XMLHttpRequest.prototype.open;
+      var newOpen = function(_, url) {
+        var original = this.originalOpen.apply(this, arguments);
+        if (url.indexOf('https://toho-stdio.github.io/') === 0) {
+          this.withCredentials = true;
+        }
+
+        return original;
+      }
+      XMLHttpRequest.prototype.open = newOpen;
+    </script>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
