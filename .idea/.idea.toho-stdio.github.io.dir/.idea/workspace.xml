@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="" />
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build AVPro">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,7 @@
       </list>
     </option>
     <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,6 +53,7 @@
       <updated>1654532732271</updated>
       <workItem from="1654532734304" duration="963000" />
       <workItem from="1654538539709" duration="1472000" />
+      <workItem from="1654564362931" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -78,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654539753590</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Update build for AVPro">
+      <created>1654564487540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654564487540</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Update build AVPro">
+      <created>1654564854391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654564854391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Update build AVPro">
+      <created>1654564871449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654564871449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +129,8 @@
     <MESSAGE value="- Add hls.min.js" />
     <MESSAGE value="- Youtube live streaming use NexPlayer" />
     <MESSAGE value="- Add script to index.html to fix CORS issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Add script to index.html to fix CORS issue" />
+    <MESSAGE value="- Update build for AVPro" />
+    <MESSAGE value="- Update build AVPro" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update build AVPro" />
   </component>
 </project>
