@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
       <workItem from="1654564362931" duration="1482000" />
       <workItem from="1658197813104" duration="786000" />
       <workItem from="1658888007667" duration="630000" />
+      <workItem from="1658893562205" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658888031386</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- Build popup dialog show message about video">
+      <created>1658893586161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658893586161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +172,7 @@
     <MESSAGE value="- Update hls.min.js AVPro" />
     <MESSAGE value="- Revert to add hls lib" />
     <MESSAGE value="- Build input url to get stream url from server" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Build input url to get stream url from server" />
+    <MESSAGE value="- Build popup dialog show message about video" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Build popup dialog show message about video" />
   </component>
 </project>
