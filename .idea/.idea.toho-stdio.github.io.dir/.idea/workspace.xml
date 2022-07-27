@@ -54,6 +54,7 @@
       <workItem from="1654538539709" duration="1472000" />
       <workItem from="1654564362931" duration="1482000" />
       <workItem from="1658197813104" duration="786000" />
+      <workItem from="1658888007667" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658197858314</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- Build input url to get stream url from server">
+      <created>1658888031386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658888031386</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
     <MESSAGE value="- Update build AVPro" />
     <MESSAGE value="- Update hls.min.js AVPro" />
     <MESSAGE value="- Revert to add hls lib" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Revert to add hls lib" />
+    <MESSAGE value="- Build input url to get stream url from server" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Build input url to get stream url from server" />
   </component>
 </project>
