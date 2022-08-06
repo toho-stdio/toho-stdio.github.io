@@ -1,75 +1,188 @@
 <!DOCTYPE html>
 <html lang="en-us">
-   <head>
-      <meta charset="utf-8" />
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      <title>%UNITY_WEB_NAME%</title>
-
-      <link rel="stylesheet" href="/TemplateData/style.css" />
-
-      <script src="https://nexplayer.nexplayersdk.com/latest/nexplayer.js"></script>
-      <script src="https://d1s68t328djb4k.cloudfront.net/webgl/v1.0/NexPlayerUnity.js"></script>
-       <script src="TemplateData/hls.min.js"></script>
-
-       <!-- <script src="js/NexPlayerUnity.js"></script> -->
-   </head>
-
-   <body>
-    <!-- Unity Container -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity metastore</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.1.min.js"></script>    
+    <link rel="stylesheet" href="TemplateData/_shared/style.css"> <!--追記-->    
+  </head>
+  <body>
     <div id="unity-container" class="unity-desktop">
-
-      <!-- Nexplayer Logo-->
-<!--      <img src="TemplateData/NexPlayer_logo_white_bckg.png" id= "nexPlayer_Logo" alt="Nexplayer_Logo" width="374" height="153">-->
-<!--      <br><br><br>-->
-
-      <!-- Unity WebGL will be here -->
-      <canvas id="unity-canvas"></canvas>
-
-        <div id="unity-footer">
-          <div id="unity-fullscreen-button"></div>
-          <div id="unity-build-title">YoutubeLiveWebGL</div>
+      <canvas id="unity-canvas" width=960 height=600></canvas>
+      <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
         </div>
+      </div>
+      <div id="unity-warning"> </div>
+      <div id="unity-footer">
+        <div id="unity-webgl-logo"></div>
+        <div id="unity-fullscreen-button"></div>
+        <div id="unity-build-title">metastoreBase</div>
+        <a id="lawLink" href="" target="_blank"></a>  
+      </div>
+      <div hidden>
+        <button id="voiceChatSet">ボイスチャット設定</button>        
+        <input id="key" type="text" value="">
+      </div>
+        
     </div>
-      
 
+        <!--VoiceChat部分　追記　ここから-->
+        <div id="voicechatUI" hidden>
+          <br><br>VoiceChat
+          <button id="make-call">Join</button>
+          <button id="end-call">Leave</button>
+          <div>
+              <label for="audioSource">Audio input source: </label><select id="audioSource"></select>
+          </div>
+          <button id="js-toggle-microphone">マイクミュートON/OFF</button>
+          <span id="microphone-status"></span>
+          <br>
+          <input id="roomId" type="text" value="metastoreroomforall">
+          <button id="unitySend" onclick="unitySendMessage()">Unityに送信</button>
+          <input type="text" id="audioInputText">
+          <input type="number" id="joinCount" value="1" onChange="unitySendJoinCount()" />
+          <p id="audioInfo"></p>
+      </div>
+  </div>
+
+  <div class="container" hidden>
+      <p class="note">
+          Change Room mode (before join in a room):
+          <a href="#">mesh</a> / <a href="#sfu">sfu</a>
+      </p>
+      <div class="room">
+          <div>
+              <span id="js-room-mode"></span>:
+              <input type="text" placeholder="Room Name" id="js-room-id">
+          </div>
+
+          <div class="remote-streams" id="js-remote-streams"></div>
+
+          <div>
+              <pre class="messages" id="js-messages"></pre>
+              <input type="text" id="js-local-text">
+              <button id="js-send-trigger">Send</button>
+          </div>
+      </div>
+      <p class="meta" id="js-meta"></p>
+  </div>
+  <script src="//cdn.webrtc.ecl.ntt.com/skyway-4.4.3.js"></script>
+  <script src="TemplateData/_shared/key.js"></script>
+  <script src="TemplateData/script.js"></script>
+  
+  <!--VoiceChat部分　追記　ここまで-->    
     <script>
-      var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/toho-stdio.github.io.loader.js";
-      var config = {
-        dataUrl: buildUrl + "/toho-stdio.github.io.data.unityweb",
-        frameworkUrl: buildUrl + "/toho-stdio.github.io.framework.js.unityweb",
-        codeUrl: buildUrl + "/toho-stdio.github.io.wasm.unityweb",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "YoutubeLiveWebGL",
-        productVersion: "0.1",
-      };
-
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+      var progressBarFull = document.querySelector("#unity-progress-bar-full");
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      var warningBanner = document.querySelector("#unity-warning");
 
-      
-      canvas.style.width = "960px";
-      canvas.style.height = "600px";
-      
+      // Shows a temporary message banner/ribbon for a few seconds, or
+      // a permanent error message on top of the canvas if type=='error'.
+      // If type=='warning', a yellow highlight color is used.
+      // Modify or remove this function to customize the visually presented
+      // way that non-critical warnings and error messages are presented to the
+      // user.
+      function unityShowBanner(msg, type) {
+        function updateBannerVisibility() {
+          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+        }
+        var div = document.createElement('div');
+        div.innerHTML = msg;
+        warningBanner.appendChild(div);
+        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        else {
+          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+          setTimeout(function() {
+            warningBanner.removeChild(div);
+            updateBannerVisibility();
+          }, 5000);
+        }
+        updateBannerVisibility();
+      }
 
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/LoadTemplate.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/LoadTemplate.data.unityweb",
+        frameworkUrl: buildUrl + "/LoadTemplate.framework.js.unityweb",
+        codeUrl: buildUrl + "/LoadTemplate.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "HACOSCO",
+        productName: "metastoreBase",
+        productVersion: "0.1",
+        showBanner: unityShowBanner,
+      };
+
+      // By default Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        container.className = "unity-mobile";
+
+        // To lower canvas resolution on mobile devices to gain some
+        // performance, uncomment the following line:
+        // config.devicePixelRatio = 1;
+
+        canvas.style.width = window.innerWidth + 'px';
+        canvas.style.height = window.innerHeight + 'px';
+
+        unityShowBanner('WebGL builds are not supported on mobile devices.');
+      } else {
+        // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
+      }
+
+      loadingBar.style.display = "block";
+      canvas.style.background = "url('" + buildUrl + "/ConvenienceShopify.jpg') center / cover";
+
+      var myGameInstance = null;
       var script = document.createElement("script");
-      script.src = loaderUrl;
+      script.src = loaderUrl;      
       script.onload = () => {
-        createUnityInstance(canvas, config, 
-        (progress) => {
-          //progressBarFull.style.width = 100 * progress + "%";
+        createUnityInstance(canvas, config, (progress) => {
+          progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
-          //loadingBar.style.display = "none";
+          myGameInstance = unityInstance;          
+          loadingBar.style.display = "none";
+          document.getElementById('unitySend').click();          
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
         }).catch((message) => {
-          alert(message);
+          console.log(message);
+          alert("読み込みに失敗しました。キャッシュを削除して画面を更新してください。\nWindowsの場合：Ctrl ＋ Shift ＋ R\nMacの場合：Command ＋ Shift ＋ R");
         });
       };
       document.body.appendChild(script);
+
+      function unitySendMessage(params){
+        myGameInstance.SendMessage("VoicechatCanvas", "SetAudioInfo", $("#audioInputText").val());
+      };
+
+      function unitySendJoinCount() {
+          myGameInstance.SendMessage("VoicechatCanvas", "SetJoinCount", $("#joinCount").val());
+      };
     </script>
-   </body>
+  </body>
 </html>
