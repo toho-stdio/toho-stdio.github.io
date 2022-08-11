@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/toho-stdio.github.io.data.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/toho-stdio.github.io.framework.js.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/toho-stdio.github.io.loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/toho-stdio.github.io.wasm.unityweb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +15,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="toanhx &lt;toanhodev@gmail.com&gt;" />
         <option value="toho-stdio &lt;toanhodev@gmail.com&gt;" />
       </list>
     </option>
@@ -63,6 +60,7 @@
       <workItem from="1658899034916" duration="1824000" />
       <workItem from="1659798094298" duration="1058000" />
       <workItem from="1659933850377" duration="1380000" />
+      <workItem from="1659943381968" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659798141194</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="- Update build with correct url asset bundles">
+      <created>1659943432273</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659943432273</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +211,7 @@
     <MESSAGE value="- Build test &quot;stuck first frame&quot; bug" />
     <MESSAGE value="- Disable autoplay" />
     <MESSAGE value="- Test build for mobile webgl metastore" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Test build for mobile webgl metastore" />
+    <MESSAGE value="- Update build with correct url asset bundles" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update build with correct url asset bundles" />
   </component>
 </project>
