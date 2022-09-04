@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="" />
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Remote build test MS remote host">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <workItem from="1659943381968" duration="963000" />
       <workItem from="1660229361979" duration="3210000" />
       <workItem from="1662274471086" duration="13000" />
-      <workItem from="1662274494616" duration="337000" />
+      <workItem from="1662274494616" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -196,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662274547396</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="- Remote build test MS remote host">
+      <created>1662275494268</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662275494268</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +252,7 @@
     <MESSAGE value="- Update build with correct url asset bundles" />
     <MESSAGE value="- New build with webgl stats" />
     <MESSAGE value="- Remote build test MS" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Remote build test MS" />
+    <MESSAGE value="- Remote build test MS remote host" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Remote build test MS remote host" />
   </component>
 </project>
