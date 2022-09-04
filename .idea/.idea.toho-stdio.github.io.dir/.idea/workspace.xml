@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- New build with webgl stats">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.data.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.data.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.framework.js.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.framework.js.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.wasm.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.wasm.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/catalog.json" beforeDir="false" afterPath="$PROJECT_DIR$/StreamingAssets/aa/catalog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/StreamingAssets/aa/settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,8 @@
       <workItem from="1659798094298" duration="1058000" />
       <workItem from="1659933850377" duration="1380000" />
       <workItem from="1659943381968" duration="963000" />
-      <workItem from="1660229361979" duration="1910000" />
+      <workItem from="1660229361979" duration="3210000" />
+      <workItem from="1662274471086" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -182,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660232588173</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="- New build with webgl stats">
+      <created>1660234952261</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660234952261</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
