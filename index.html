@@ -110,11 +110,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/toho-stdio.github.io.loader.js";
+      var loaderUrl = buildUrl + "/LoadTemplate.loader.js";
       var config = {
-        dataUrl: buildUrl + "/toho-stdio.github.io.data.unityweb",
-        frameworkUrl: buildUrl + "/toho-stdio.github.io.framework.js.unityweb",
-        codeUrl: buildUrl + "/toho-stdio.github.io.wasm.unityweb",
+        dataUrl: buildUrl + "/LoadTemplate.data.unityweb",
+        frameworkUrl: buildUrl + "/LoadTemplate.framework.js.unityweb",
+        codeUrl: buildUrl + "/LoadTemplate.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "HACOSCO",
         productName: "metastoreBase",
@@ -129,7 +129,8 @@
       // the canvas DOM size and WebGL render target sizes yourself.
       // config.matchWebGLToCanvasSize = false;
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+      var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+      if (isMobile) {
         // Mobile device style: fill the whole browser client area with the game canvas:
 
         var meta = document.createElement('meta');
@@ -169,6 +170,7 @@
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
+            myGameInstance.SendMessage("PlatformManager", "UpdatePlatformInfo", isMobile);
         }).catch((message) => {
           console.log(message);
           alert("読み込みに失敗しました。キャッシュを削除して画面を更新してください。\nWindowsの場合：Ctrl ＋ Shift ＋ R\nMacの場合：Command ＋ Shift ＋ R");
