@@ -183,6 +183,7 @@
         myGameInstance.SendMessage("VoicechatCanvas", "SetAudioInfo", $("#audioInputText").val());
       };
       function platformCheckSend(params){
+          var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
           myGameInstance.SendMessage("PlatformManager", "UpdatePlatformInfo", isMobile);
       };
 
