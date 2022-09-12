@@ -45,6 +45,7 @@
           <br>
           <input id="roomId" type="text" value="metastoreroomforall">
           <button id="unitySend" onclick="unitySendMessage()">Unityに送信</button>
+          <button id="platformCheckSend" onclick="platformCheckSend()"></button>
           <input type="text" id="audioInputText">
           <input type="number" id="joinCount" value="1" onChange="unitySendJoinCount()" />
           <p id="audioInfo"></p>
@@ -170,7 +171,7 @@
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
-            myGameInstance.SendMessage("PlatformManager", "UpdatePlatformInfo", isMobile);
+            
         }).catch((message) => {
           console.log(message);
           alert("読み込みに失敗しました。キャッシュを削除して画面を更新してください。\nWindowsの場合：Ctrl ＋ Shift ＋ R\nMacの場合：Command ＋ Shift ＋ R");
@@ -180,6 +181,9 @@
 
       function unitySendMessage(params){
         myGameInstance.SendMessage("VoicechatCanvas", "SetAudioInfo", $("#audioInputText").val());
+      };
+      function platformCheckSend(params){
+          myGameInstance.SendMessage("PlatformManager", "UpdatePlatformInfo", isMobile);
       };
 
       function unitySendJoinCount() {
