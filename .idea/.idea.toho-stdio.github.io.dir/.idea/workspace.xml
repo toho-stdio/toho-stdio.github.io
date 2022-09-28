@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build simplify environment">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,8 @@
       <workItem from="1663000196915" duration="3445000" />
       <workItem from="1664335836932" duration="234000" />
       <workItem from="1664336291733" duration="790000" />
-      <workItem from="1664339803732" duration="4489000" />
+      <workItem from="1664339803732" duration="5618000" />
+      <workItem from="1664381175072" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -386,7 +387,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664344754700</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="- Update build">
+      <created>1664345489580</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1664345489580</updated>
+    </task>
+    <task id="LOCAL-00047" summary="- Update build simplify environment">
+      <created>1664381201056</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1664381201056</updated>
+    </task>
+    <task id="LOCAL-00048" summary="- Update build simplify environment">
+      <created>1664381730622</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1664381730622</updated>
+    </task>
+    <task id="LOCAL-00049" summary="- Update build simplify environment">
+      <created>1664382204355</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1664382204355</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +446,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Youtube live streaming use NexPlayer" />
     <MESSAGE value="- Add script to index.html to fix CORS issue" />
     <MESSAGE value="- Update build for AVPro" />
     <MESSAGE value="- Update build AVPro" />
@@ -442,6 +470,7 @@
     <MESSAGE value="- Update load iOS" />
     <MESSAGE value="- Update catalog.json" />
     <MESSAGE value="- Update build" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update build" />
+    <MESSAGE value="- Update build simplify environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update build simplify environment" />
   </component>
 </project>
