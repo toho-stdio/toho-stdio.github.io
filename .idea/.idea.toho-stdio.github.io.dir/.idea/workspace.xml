@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update catalog.json">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.data.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.data.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.framework.js.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.framework.js.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.wasm.unityweb" beforeDir="false" afterPath="$PROJECT_DIR$/Build/LoadTemplate.wasm.unityweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/catalog.json" beforeDir="false" afterPath="$PROJECT_DIR$/StreamingAssets/aa/catalog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/StreamingAssets/aa/settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
       <workItem from="1663000196915" duration="3445000" />
       <workItem from="1664335836932" duration="234000" />
       <workItem from="1664336291733" duration="790000" />
-      <workItem from="1664339803732" duration="1216000" />
+      <workItem from="1664339803732" duration="1562000" />
     </task>
     <task id="LOCAL-00001" summary="- Init build">
       <created>1654532770216</created>
@@ -351,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664340755207</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="- Update build">
+      <created>1664341501889</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1664341501889</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,8 +417,8 @@
     <MESSAGE value="- Load from memory stream" />
     <MESSAGE value="- Load product by thumbnail" />
     <MESSAGE value="- Update load iOS" />
-    <MESSAGE value="- Update build" />
     <MESSAGE value="- Update catalog.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update catalog.json" />
+    <MESSAGE value="- Update build" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update build" />
   </component>
 </project>
