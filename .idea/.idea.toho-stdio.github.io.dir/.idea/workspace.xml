@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Add funiture with update compress texture ASTC format" />
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build with load optimized shelf">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,14 +71,7 @@
       <workItem from="1664336291733" duration="790000" />
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
-      <workItem from="1664435231468" duration="2948000" />
-    </task>
-    <task id="LOCAL-00008" summary="- Update hls.min.js AVPro">
-      <created>1654565239515</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1654565239515</updated>
+      <workItem from="1664435231468" duration="3886000" />
     </task>
     <task id="LOCAL-00009" summary="- Revert to add hls lib">
       <created>1658197858314</created>
@@ -414,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664440147881</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="- Update build with load optimized shelf">
+      <created>1664440639012</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1664440639012</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +447,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Update build AVPro" />
     <MESSAGE value="- Update hls.min.js AVPro" />
     <MESSAGE value="- Revert to add hls lib" />
     <MESSAGE value="- Build input url to get stream url from server" />
@@ -470,6 +471,7 @@
     <MESSAGE value="- Update build simplify environment" />
     <MESSAGE value="- Update texture for icon spritesheet" />
     <MESSAGE value="- Add funiture with update compress texture ASTC format" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Add funiture with update compress texture ASTC format" />
+    <MESSAGE value="- Update build with load optimized shelf" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update build with load optimized shelf" />
   </component>
 </project>
