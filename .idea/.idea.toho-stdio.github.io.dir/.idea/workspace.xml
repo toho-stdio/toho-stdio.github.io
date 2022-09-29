@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.hash" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.hash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/prefabs/ms_env_v001_001_000.prefab_ed6c8fb72bd2b23692206341d8006363.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/scene/catalog_scene.hash" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/scene/catalog_scene.hash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/scene/catalog_scene.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/scene/catalog_scene.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,35 +70,7 @@
       <workItem from="1664335836932" duration="234000" />
       <workItem from="1664336291733" duration="790000" />
       <workItem from="1664339803732" duration="5618000" />
-      <workItem from="1664381175072" duration="2663000" />
-    </task>
-    <task id="LOCAL-00002" summary="- Add hls.min.js">
-      <created>1654533429020</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654533429020</updated>
-    </task>
-    <task id="LOCAL-00003" summary="- Youtube live streaming use NexPlayer">
-      <created>1654538615584</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1654538615584</updated>
-    </task>
-    <task id="LOCAL-00004" summary="- Add script to index.html to fix CORS issue">
-      <created>1654539753590</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1654539753590</updated>
-    </task>
-    <task id="LOCAL-00005" summary="- Update build for AVPro">
-      <created>1654564487540</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1654564487540</updated>
+      <workItem from="1664381175072" duration="4001000" />
     </task>
     <task id="LOCAL-00006" summary="- Update build AVPro">
       <created>1654564854391</created>
@@ -420,7 +387,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664386692796</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="- Update build simplify environment">
+      <created>1664388937178</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1664388937178</updated>
+    </task>
+    <task id="LOCAL-00052" summary="- Update build simplify environment">
+      <created>1664389163068</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1664389163069</updated>
+    </task>
+    <task id="LOCAL-00053" summary="- Update build simplify environment">
+      <created>1664389397270</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1664389397270</updated>
+    </task>
+    <task id="LOCAL-00054" summary="- Update build simplify environment">
+      <created>1664389658104</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1664389658104</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
