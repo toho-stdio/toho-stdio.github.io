@@ -71,13 +71,7 @@
       <workItem from="1664336291733" duration="790000" />
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
-    </task>
-    <task id="LOCAL-00006" summary="- Update build AVPro">
-      <created>1654564854391</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1654564854391</updated>
+      <workItem from="1664435231468" duration="2561000" />
     </task>
     <task id="LOCAL-00007" summary="- Update build AVPro">
       <created>1654564871449</created>
@@ -415,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664389658104</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="- Update texture for icon spritesheet">
+      <created>1664436150166</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1664436150166</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +447,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Add script to index.html to fix CORS issue" />
     <MESSAGE value="- Update build for AVPro" />
     <MESSAGE value="- Update build AVPro" />
     <MESSAGE value="- Update hls.min.js AVPro" />
@@ -471,6 +471,7 @@
     <MESSAGE value="- Update catalog.json" />
     <MESSAGE value="- Update build" />
     <MESSAGE value="- Update build simplify environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update build simplify environment" />
+    <MESSAGE value="- Update texture for icon spritesheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update texture for icon spritesheet" />
   </component>
 </project>
