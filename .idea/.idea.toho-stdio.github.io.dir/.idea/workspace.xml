@@ -70,14 +70,7 @@
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
       <workItem from="1664435231468" duration="4653000" />
-      <workItem from="1664507441702" duration="298000" />
-    </task>
-    <task id="LOCAL-00012" summary="- Build test &quot;stuck first frame&quot; bug">
-      <created>1658899053650</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1658899053650</updated>
+      <workItem from="1664507441702" duration="651000" />
     </task>
     <task id="LOCAL-00013" summary="- Disable autoplay">
       <created>1658899534775</created>
@@ -415,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664507501562</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="- Update funiture texture">
+      <created>1664507951321</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1664507951321</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
