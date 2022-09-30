@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update build with load optimized shelf">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,21 +71,7 @@
       <workItem from="1664336291733" duration="790000" />
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
-      <workItem from="1664435231468" duration="3886000" />
-    </task>
-    <task id="LOCAL-00009" summary="- Revert to add hls lib">
-      <created>1658197858314</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1658197858314</updated>
-    </task>
-    <task id="LOCAL-00010" summary="- Build input url to get stream url from server">
-      <created>1658888031386</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1658888031386</updated>
+      <workItem from="1664435231468" duration="4653000" />
     </task>
     <task id="LOCAL-00011" summary="- Build popup dialog show message about video">
       <created>1658893586161</created>
@@ -416,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664440639012</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="- Update light texture format ASTC">
+      <created>1664442553715</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1664442553715</updated>
+    </task>
+    <task id="LOCAL-00059" summary="- Update catalogue link">
+      <created>1664442885342</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1664442885342</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,8 +447,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Update hls.min.js AVPro" />
-    <MESSAGE value="- Revert to add hls lib" />
     <MESSAGE value="- Build input url to get stream url from server" />
     <MESSAGE value="- Build popup dialog show message about video" />
     <MESSAGE value="- Build test &quot;stuck first frame&quot; bug" />
@@ -472,6 +470,8 @@
     <MESSAGE value="- Update texture for icon spritesheet" />
     <MESSAGE value="- Add funiture with update compress texture ASTC format" />
     <MESSAGE value="- Update build with load optimized shelf" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update build with load optimized shelf" />
+    <MESSAGE value="- Update light texture format ASTC" />
+    <MESSAGE value="- Update catalogue link" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update catalogue link" />
   </component>
 </project>
