@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update funiture texture" />
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,21 +72,7 @@
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
       <workItem from="1664435231468" duration="4653000" />
-      <workItem from="1664507441702" duration="651000" />
-    </task>
-    <task id="LOCAL-00013" summary="- Disable autoplay">
-      <created>1658899534775</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1658899534775</updated>
-    </task>
-    <task id="LOCAL-00014" summary="- Test build for mobile webgl metastore">
-      <created>1659798141194</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1659798141194</updated>
+      <workItem from="1664507441702" duration="2265000" />
     </task>
     <task id="LOCAL-00015" summary="- Update build with correct url asset bundles">
       <created>1659943432273</created>
@@ -415,7 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664507951321</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="- Update funiture texture">
+      <created>1664508129150</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1664508129150</updated>
+    </task>
+    <task id="LOCAL-00063" summary="- Update funiture texture">
+      <created>1664508506510</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1664508506510</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
