@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update funiture texture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,13 +70,7 @@
       <workItem from="1664339803732" duration="5618000" />
       <workItem from="1664381175072" duration="4001000" />
       <workItem from="1664435231468" duration="4653000" />
-    </task>
-    <task id="LOCAL-00011" summary="- Build popup dialog show message about video">
-      <created>1658893586161</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1658893586161</updated>
+      <workItem from="1664507441702" duration="298000" />
     </task>
     <task id="LOCAL-00012" summary="- Build test &quot;stuck first frame&quot; bug">
       <created>1658899053650</created>
@@ -416,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664442885342</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="- Update funiture texture">
+      <created>1664507501561</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1664507501562</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +446,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Build input url to get stream url from server" />
     <MESSAGE value="- Build popup dialog show message about video" />
     <MESSAGE value="- Build test &quot;stuck first frame&quot; bug" />
     <MESSAGE value="- Disable autoplay" />
@@ -472,6 +470,7 @@
     <MESSAGE value="- Update build with load optimized shelf" />
     <MESSAGE value="- Update light texture format ASTC" />
     <MESSAGE value="- Update catalogue link" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update catalogue link" />
+    <MESSAGE value="- Update funiture texture" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update funiture texture" />
   </component>
 </project>
