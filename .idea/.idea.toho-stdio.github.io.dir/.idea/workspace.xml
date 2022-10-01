@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update font fallback">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,13 +74,7 @@
       <workItem from="1664435231468" duration="4653000" />
       <workItem from="1664507441702" duration="2265000" />
       <workItem from="1664513366679" duration="606000" />
-    </task>
-    <task id="LOCAL-00016" summary="- New build with webgl stats">
-      <created>1660229370516</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1660229370516</updated>
+      <workItem from="1664615514552" duration="793000" />
     </task>
     <task id="LOCAL-00017" summary="- New build with webgl stats">
       <created>1660232588173</created>
@@ -418,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664513372692</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="- Update font fallback">
+      <created>1664615706014</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1664615706014</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +450,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Build popup dialog show message about video" />
     <MESSAGE value="- Build test &quot;stuck first frame&quot; bug" />
     <MESSAGE value="- Disable autoplay" />
     <MESSAGE value="- Test build for mobile webgl metastore" />
@@ -474,6 +474,7 @@
     <MESSAGE value="- Update light texture format ASTC" />
     <MESSAGE value="- Update catalogue link" />
     <MESSAGE value="- Update funiture texture" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update funiture texture" />
+    <MESSAGE value="- Update font fallback" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update font fallback" />
   </component>
 </project>
