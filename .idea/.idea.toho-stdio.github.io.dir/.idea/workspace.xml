@@ -73,13 +73,7 @@
       <workItem from="1664381175072" duration="4001000" />
       <workItem from="1664435231468" duration="4653000" />
       <workItem from="1664507441702" duration="2265000" />
-    </task>
-    <task id="LOCAL-00015" summary="- Update build with correct url asset bundles">
-      <created>1659943432273</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1659943432273</updated>
+      <workItem from="1664513366679" duration="606000" />
     </task>
     <task id="LOCAL-00016" summary="- New build with webgl stats">
       <created>1660229370516</created>
@@ -417,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664508506510</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="- Update funiture texture">
+      <created>1664513372692</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1664513372692</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
