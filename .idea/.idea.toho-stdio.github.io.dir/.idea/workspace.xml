@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update font fallback">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,28 +72,7 @@
       <workItem from="1664435231468" duration="4653000" />
       <workItem from="1664507441702" duration="2265000" />
       <workItem from="1664513366679" duration="606000" />
-      <workItem from="1664615514552" duration="793000" />
-    </task>
-    <task id="LOCAL-00017" summary="- New build with webgl stats">
-      <created>1660232588173</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1660232588173</updated>
-    </task>
-    <task id="LOCAL-00018" summary="- New build with webgl stats">
-      <created>1660234952261</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1660234952261</updated>
-    </task>
-    <task id="LOCAL-00019" summary="- Remote build test MS">
-      <created>1662274547396</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1662274547396</updated>
+      <workItem from="1664615514552" duration="2704000" />
     </task>
     <task id="LOCAL-00020" summary="- Remote build test MS remote host">
       <created>1662275494268</created>
@@ -419,7 +396,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664615706014</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="- Use recommended settings for build">
+      <created>1664620911054</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1664620911054</updated>
+    </task>
+    <task id="LOCAL-00067" summary="- Update json parse for work on high level code stripped">
+      <created>1664622314280</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1664622314280</updated>
+    </task>
+    <task id="LOCAL-00068" summary="- Update stripping level to low">
+      <created>1664622950586</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1664622950586</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,9 +448,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Build test &quot;stuck first frame&quot; bug" />
-    <MESSAGE value="- Disable autoplay" />
-    <MESSAGE value="- Test build for mobile webgl metastore" />
     <MESSAGE value="- Update build with correct url asset bundles" />
     <MESSAGE value="- New build with webgl stats" />
     <MESSAGE value="- Remote build test MS" />
@@ -475,6 +470,9 @@
     <MESSAGE value="- Update catalogue link" />
     <MESSAGE value="- Update funiture texture" />
     <MESSAGE value="- Update font fallback" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update font fallback" />
+    <MESSAGE value="- Use recommended settings for build" />
+    <MESSAGE value="- Update json parse for work on high level code stripped" />
+    <MESSAGE value="- Update stripping level to low" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update stripping level to low" />
   </component>
 </project>
