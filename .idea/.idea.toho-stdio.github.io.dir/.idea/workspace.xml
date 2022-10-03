@@ -74,13 +74,7 @@
       <workItem from="1664513366679" duration="606000" />
       <workItem from="1664615514552" duration="2704000" />
       <workItem from="1664791747419" duration="84000" />
-    </task>
-    <task id="LOCAL-00021" summary="- Remote build test MS remote host">
-      <created>1662276193954</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1662276193954</updated>
+      <workItem from="1664792159674" duration="107000" />
     </task>
     <task id="LOCAL-00022" summary="- Update remote host url index.html">
       <created>1662276559623</created>
@@ -418,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664791769440</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="- Update texture new UI">
+      <created>1664792170361</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1664792170361</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
