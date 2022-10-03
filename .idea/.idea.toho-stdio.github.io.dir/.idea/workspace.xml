@@ -5,85 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update texture new UI">
-      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.hash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/mat_background_01_fix.mat_a3f21007901843561ec1a41303f42454.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/textures/tex_showroom_01.png_7c9345e932d4fe386b643aa46de35829.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/metallic.png_6f77abb06f02543a6ab3d80444225f69.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/smoothness.png_cfbda903f067742129e0db7d53239bdb.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/smoothness.png_fabc1672f140c9fe55c3490bbd0b11f0.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles1082k-jpg.mat_4e07bcc7a7a745cc7f13ca02d92cb9f2.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_ambientocclusion.jpg_8defa43e326e6985c75390154ca33e7d.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_color.jpg_d71fd6a9dcd26ff784b61aaa289deb81.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_displacement.jpg_5f1faa8f734ae15633b98d093e05be86.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_normaldx.jpg_b23cd7bff9a2b72bde31b132d3cd5179.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_normalgl.jpg_4756e0a687dae8c5c4ebc332eb1b0407.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_2k_roughness.jpg_b0f15e355b2cced61c10987b7831bad2.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/materials/tiles108/tiles108_preview.jpg_e71366a34a9273ffc820037f8050701e.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/models/mesh_background_01.fbx_f5ecc8b69c23b9e2b82e589d3fc1f657.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/prefabs/mesh_background_01.prefab_970e397ee89e3ce89cbd9538f5c3371f.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/prefabs/ms_env_v001_001_000.prefab_ae75034e8150be434a6b8f0dd5c3e69d.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/skybox/skybox_v001_001_000.mat_21c984519bfc1cae3c6c5da619add6e0.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_001_000/skybox/tex_showroom_01_cubemap.png_81d0f37fb617ea12146050615a469fdf.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/metallic.png_d840cbbf6d7e65432fd74039efc4f23a.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/tiles0512k-jpg.mat_121661582b5cb9915e598066e124024a.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/tiles051_2k_color.jpg_d0fd81efdd934a637ff3daccfe127378.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/tiles051_2k_displacement.jpg_7ee060b718909f7b22910562741f7869.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/tiles051_2k_normaldx.jpg_41fd326f89f623b68b9255aae075ba3e.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/materials/tiles051/tiles051_2k_roughness.jpg_10df6252950926b756293eac3df67edb.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/prefabs/ms_env_v001_002_000.prefab_70cbc58580c07a2665919cb292298d97.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/skybox/reflectionprobe_002-reflectionhdr.exr_5238fbd6613de0d0e8549ddbe99d93a3.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/skybox/schadowplatz_2k.jpg_f55f961cfae3e0b6bc53aa97c84e94c6.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/env_assets_assets/env_set/part_01/ms_env_v001_002_000/skybox/skybox_v001_002_000.mat_757cb245a65e6056ba8f388351126db6.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/metastorelightprops/materials/lightchrome01.mat_d78990ac6e00c02c67c427a004e01f0b.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/metastorelightprops/materials/lightemission01.mat_53e91b364b090175bf26929465fadd37.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/clear_018.mat_32d9d97cc87482448296b43c4eeb1ae7.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/clear_018.mat_e595337257c4eac058bb49c702f850d6.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/concrete034_1k-jpg/concrete034_1k_color.jpg_799154cef52cc640c7ba41c8e8a3ddf9.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/concrete034_1k-jpg/concrete034_1k_displacement.jpg_c369904b4589f55b991ecbe0ceb30799.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/concrete034_1k-jpg/concrete034_1k_normalgl.jpg_0a853fdebf2a964e044f7ca8090c9147.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/concrete034_1k-jpg/concrete034_1k_roughness.jpg_7161e17d694691dc980df395b6ccc8ce.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/concrete034_1k-jpg/concrete_018.mat_2fb69e13888bea2ff177f67d2e824d8f.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/floor_material_018.mat_a391573641595a1098534a6a6d7e14f7.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/floor_material_018_02.mat_5df89cd3863c86468cb85cea0b6d5475.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/glass.mat_cd163b8d363e2e25cfc5f45ec474350f.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/plastic2.mat_da8d9cd26b10f303bccf771b0d6d68f7.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/pvc2.mat_86553cb16a01e08bf521594308f79658.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/pvc2.mat_ef77903bda4b37d13cc4303b0da00f55.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-floor_material.mat_6da450e7e1f1392a58a52b8e0cdda5d0.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-glass.mat_62a185ff5a8088607d5f0e8932567f8a.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-hidden_material.mat_7359506de18bf3bf8e6ae107c375f9eb.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-marble.mat_5324605c5b27d16fdf9e6a5176f5563d.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-plastic.mat_c533dccaa1c82bf53712d95c911c8bc9.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-pvc.mat_99f58fbd542a7e5d80dd665a96472bac.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/space_018_20220730-wall_material.mat_8a724f97e00077e566aa4d2ba0583b76.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/metallic.png_c66b724ba7bf301ca1ec5aadb7d8db12.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/smoothness.png_aea112b85960e11f406954883159ae94.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor0402k-jpg_018.mat_aabea5ec65ae187bb4cffeb5a0e4b60e.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor0402k-jpg_018.mat_d4f69872e619693a68971689b2fe62c7.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_ambientocclusion.jpg_c4453739bf51c598791364453df07260.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_color.jpg_834f7bf7237d2057a7e5076a454821c5.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_displacement.jpg_d90b4c8608c379cc200504f728c2206e.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_normaldx.jpg_c9b0b63b84ba8b84da44f012a3109df6.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_normalgl.jpg_752ff6449f221d2daddfdb4f3f20eda4.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_2k_roughness.jpg_b0f9ebd26db3e7b0e03bcdd80985dff8.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/materials/woodfloor040_18/woodfloor040_preview.jpg_231917577db26ffea148a3e254c657d7.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/space_018_2.fbx_5d65da48b6a904ba9d432547bff40efa.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/space_018_20220730.fbx_a674f34d561c2d15fa0f828b80520b0c.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/space/template_018/space_018_3.fbx_a7129f1e2a73a69829a393eea9062493.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplate_data/template_002/prefabs/metastoretemplate_20220313_002variant.prefab_bfc86e6225123495cceea2163fbca0ed.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/baseboard_material1.mat_735da30dd8a96886d187d4543d6ad09a.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/floor_material1.mat_f837ab0445e285bceeb377401418258c.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/glass.mat_b709a17d4b56f1753ae7c777dd2a9deb.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/hidden_material.mat_5a4ae77908ec9f995ebd9c88e53b15be.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/marble.mat_57d928d1a5cc32c19c702f48e818c99d.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/plastic.mat_d89e8c0fa236b29c0bb1d0e77c94dc29.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/pvc.mat_a6f7642834f1e0213191be4898647cf6.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/storetemplates_fromblender/template_002/materials/wall_material1.mat_12089a95de1a781af4d0e25d3b0aca12.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_packages/com.unity.render-pipelines.universal/runtime/materials/lit.mat_d4464a15e9b0577d9862f8b3fd3b1976.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_scenes_assets/scenes/part_01/ms_template_v001_002_000.unity_48d32e7fb72dc67226379bece686fea3.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_scenes_assets/scenes/part_03/ms_template_v001_018_000.unity_1547e9c5f11beea8a4faf6f82589212e.bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template_scenes_assets/scenes/part_03/ms_template_v001_018_000.unity_e3fe4b1adc55473d56d0600b1cd79abf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,14 +77,7 @@
       <workItem from="1664615514552" duration="2704000" />
       <workItem from="1664791747419" duration="84000" />
       <workItem from="1664792159674" duration="107000" />
-      <workItem from="1664792811008" duration="376000" />
-    </task>
-    <task id="LOCAL-00023" summary="- Update remote host url index.html">
-      <created>1662276742147</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1662276742147</updated>
+      <workItem from="1664792811008" duration="1319000" />
     </task>
     <task id="LOCAL-00024" summary="- Update remote host url index.html">
       <created>1662277439596</created>
@@ -500,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664792817896</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="- Update texture new UI">
+      <created>1664793695152</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1664793695152</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
