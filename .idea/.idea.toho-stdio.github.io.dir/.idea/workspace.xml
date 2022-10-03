@@ -73,13 +73,7 @@
       <workItem from="1664507441702" duration="2265000" />
       <workItem from="1664513366679" duration="606000" />
       <workItem from="1664615514552" duration="2704000" />
-    </task>
-    <task id="LOCAL-00020" summary="- Remote build test MS remote host">
-      <created>1662275494268</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662275494268</updated>
+      <workItem from="1664791747419" duration="84000" />
     </task>
     <task id="LOCAL-00021" summary="- Remote build test MS remote host">
       <created>1662276193954</created>
@@ -417,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664622950586</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="- Update texture new UI">
+      <created>1664791769440</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1664791769440</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +449,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Update build with correct url asset bundles" />
     <MESSAGE value="- New build with webgl stats" />
     <MESSAGE value="- Remote build test MS" />
     <MESSAGE value="- Remote build test MS remote host" />
@@ -473,6 +473,7 @@
     <MESSAGE value="- Use recommended settings for build" />
     <MESSAGE value="- Update json parse for work on high level code stripped" />
     <MESSAGE value="- Update stripping level to low" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update stripping level to low" />
+    <MESSAGE value="- Update texture new UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update texture new UI" />
   </component>
 </project>
