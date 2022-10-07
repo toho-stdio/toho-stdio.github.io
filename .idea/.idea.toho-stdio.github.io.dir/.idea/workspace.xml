@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Update texture new UI">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,14 +77,7 @@
       <workItem from="1664615514552" duration="2704000" />
       <workItem from="1664791747419" duration="84000" />
       <workItem from="1664792159674" duration="107000" />
-      <workItem from="1664792811008" duration="1319000" />
-    </task>
-    <task id="LOCAL-00024" summary="- Update remote host url index.html">
-      <created>1662277439596</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1662277439596</updated>
+      <workItem from="1664792811008" duration="2209000" />
     </task>
     <task id="LOCAL-00025" summary="- Update remote host url index.html">
       <created>1662278383984</created>
@@ -422,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664793695152</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="- Update texture new UI">
+      <created>1664794567430</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1664794567430</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
