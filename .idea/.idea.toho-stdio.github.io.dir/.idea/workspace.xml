@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/template/catalog_MS_Template_v001_018_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/template/catalog_MS_Template_v001_018_000.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +80,7 @@
       <workItem from="1664791747419" duration="84000" />
       <workItem from="1664792159674" duration="107000" />
       <workItem from="1664792811008" duration="2209000" />
-    </task>
-    <task id="LOCAL-00025" summary="- Update remote host url index.html">
-      <created>1662278383984</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1662278383984</updated>
+      <workItem from="1665132692324" duration="3989000" />
     </task>
     <task id="LOCAL-00026" summary="- Update remote host url index.html">
       <created>1662279120957</created>
@@ -422,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664794567430</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="- Update with new env, scene pack">
+      <created>1665132726219</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1665132726219</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +456,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- New build with webgl stats" />
     <MESSAGE value="- Remote build test MS" />
     <MESSAGE value="- Remote build test MS remote host" />
     <MESSAGE value="- Update remote host url index.html" />
@@ -478,6 +480,7 @@
     <MESSAGE value="- Update json parse for work on high level code stripped" />
     <MESSAGE value="- Update stripping level to low" />
     <MESSAGE value="- Update texture new UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update texture new UI" />
+    <MESSAGE value="- Update with new env, scene pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update with new env, scene pack" />
   </component>
 </project>
