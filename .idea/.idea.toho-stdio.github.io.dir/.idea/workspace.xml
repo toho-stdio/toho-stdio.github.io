@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Test template 023 024">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGL/template/catalog_MS_Template_v001_018_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebGL/template/catalog_MS_Template_v001_018_000.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,11 @@
         <option value="toanhx &lt;toanhodev@gmail.com&gt;" />
         <option value="toho-stdio &lt;toanhodev@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f263243e3b1ef3397defc01f3b95eb5c4160b373" />
+      </map>
     </option>
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -81,27 +84,7 @@
       <workItem from="1664792159674" duration="107000" />
       <workItem from="1664792811008" duration="2209000" />
       <workItem from="1665132692324" duration="3989000" />
-    </task>
-    <task id="LOCAL-00026" summary="- Update remote host url index.html">
-      <created>1662279120957</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1662279120957</updated>
-    </task>
-    <task id="LOCAL-00027" summary="- Update new load product method">
-      <created>1662480215039</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1662480215039</updated>
-    </task>
-    <task id="LOCAL-00028" summary="- Load model from url first, then load from file">
-      <created>1662485692355</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1662485692355</updated>
+      <workItem from="1665999248487" duration="982000" />
     </task>
     <task id="LOCAL-00029" summary="- Update index url">
       <created>1662486351996</created>
@@ -425,7 +408,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665132726219</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="- Update build for metastore space">
+      <created>1665565845264</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1665565845265</updated>
+    </task>
+    <task id="LOCAL-00076" summary="- Update build for metastore space">
+      <created>1665570438794</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1665570438794</updated>
+    </task>
+    <task id="LOCAL-00077" summary="- Test template 023 024">
+      <created>1665999905250</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1665999905251</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,8 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="- Remote build test MS" />
-    <MESSAGE value="- Remote build test MS remote host" />
     <MESSAGE value="- Update remote host url index.html" />
     <MESSAGE value="- Update new load product method" />
     <MESSAGE value="- Load model from url first, then load from file" />
@@ -481,6 +483,8 @@
     <MESSAGE value="- Update stripping level to low" />
     <MESSAGE value="- Update texture new UI" />
     <MESSAGE value="- Update with new env, scene pack" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Update with new env, scene pack" />
+    <MESSAGE value="- Update build for metastore space" />
+    <MESSAGE value="- Test template 023 024" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Test template 023 024" />
   </component>
 </project>
