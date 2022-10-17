@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.hash" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.hash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/ms_template_v001_023_000_sp.unity_1da574ef76099f94635202e80597f99d.bundle" beforeDir="false" />
-    </list>
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Test template 023 024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,21 +82,7 @@
       <workItem from="1664792159674" duration="107000" />
       <workItem from="1664792811008" duration="2209000" />
       <workItem from="1665132692324" duration="3989000" />
-      <workItem from="1665999248487" duration="3375000" />
-    </task>
-    <task id="LOCAL-00030" summary="- Update load from file nothread">
-      <created>1662487503672</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1662487503672</updated>
-    </task>
-    <task id="LOCAL-00031" summary="- Load from memory stream">
-      <created>1662490181744</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1662490181744</updated>
+      <workItem from="1665999248487" duration="3854000" />
     </task>
     <task id="LOCAL-00032" summary="- Load product by thumbnail">
       <created>1662659247541</created>
@@ -432,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666000485463</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="- Test template 023 024">
+      <created>1666016357707</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016357707</updated>
+    </task>
+    <task id="LOCAL-00080" summary="- Test template 023 024">
+      <created>1666016368007</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016368007</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
