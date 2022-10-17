@@ -47,7 +47,6 @@
     "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
   ],
   "m_InternalIds": [
-    "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/WebGL/e0ab994d515fcdd11a34ecb255d7e3de_unitybuiltinshaders.bundle",
     "Assets/Scenes/Part_03/MS_Template_v001_023_000_SP.unity",
     "https://toho-stdio.github.io/unityasset/template/v1/ms_template_v001_023_000_sp.unity_bf520122df580352131bbd575939c188.bundle"
   ],
