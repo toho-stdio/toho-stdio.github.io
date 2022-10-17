@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Test template 023 024">
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,21 +84,7 @@
       <workItem from="1664792159674" duration="107000" />
       <workItem from="1664792811008" duration="2209000" />
       <workItem from="1665132692324" duration="3989000" />
-      <workItem from="1665999248487" duration="4579000" />
-    </task>
-    <task id="LOCAL-00033" summary="- Load product by thumbnail">
-      <created>1663000367302</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1663000367302</updated>
-    </task>
-    <task id="LOCAL-00034" summary="- Load product by thumbnail">
-      <created>1663002232526</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1663002232526</updated>
+      <workItem from="1665999248487" duration="6562000" />
     </task>
     <task id="LOCAL-00035" summary="- Load product by thumbnail">
       <created>1663003133320</created>
@@ -429,7 +415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666017237591</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="- Test template 023 024">
+      <created>1666017761388</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1666017761388</updated>
+    </task>
+    <task id="LOCAL-00083" summary="- Test template 023 024">
+      <created>1666018145869</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1666018145870</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
