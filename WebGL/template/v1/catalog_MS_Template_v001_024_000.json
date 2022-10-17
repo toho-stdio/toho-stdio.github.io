@@ -1,0 +1,68 @@
+{
+  "m_LocatorId": "AddressablesMainContentCatalog",
+  "m_InstanceProviderData": {
+    "m_Id": "UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider",
+    "m_ObjectType": {
+      "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider"
+    },
+    "m_Data": ""
+  },
+  "m_SceneProviderData": {
+    "m_Id": "UnityEngine.ResourceManagement.ResourceProviders.SceneProvider",
+    "m_ObjectType": {
+      "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneProvider"
+    },
+    "m_Data": ""
+  },
+  "m_ResourceProviderData": [
+    {
+      "m_Id": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+      "m_ObjectType": {
+        "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"
+      },
+      "m_Data": ""
+    },
+    {
+      "m_Id": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+      "m_ObjectType": {
+        "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+      },
+      "m_Data": ""
+    },
+    {
+      "m_Id": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+      "m_ObjectType": {
+        "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+      },
+      "m_Data": ""
+    }
+  ],
+  "m_ProviderIds": [
+    "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+    "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"
+  ],
+  "m_InternalIds": [
+    "Assets/Scenes/Part_03/MS_Template_v001_024_000_SP.unity",
+    "https://toho-stdio.github.io/webgl/template/v1/ms_template_v001_024_000_sp.unity_2f8b8d87a43cb0452a00dae8677463da.bundle"
+  ],
+  "m_KeyDataString": "AwAAAAA3AAAAQXNzZXRzL1NjZW5lcy9QYXJ0XzAzL01TX1RlbXBsYXRlX3YwMDFfMDI0XzAwMF9TUC51bml0eQAgAAAAYzg2ODc3ZWFjMjc4ZDlhNGJhMTE4NGFiNDA4NjYzODUAbwAAAHRlbXBsYXRlX3NjZW5lc19hc3NldHMvc2NlbmVzL3BhcnRfMDMvbXNfdGVtcGxhdGVfdjAwMV8wMjRfMDAwX3NwLnVuaXR5XzJmOGI4ZDg3YTQzY2IwNDUyYTAwZGFlODY3NzQ2M2RhLmJ1bmRsZQ==",
+  "m_BucketDataString": "AwAAAAQAAAABAAAAAAAAAEAAAAABAAAAAAAAAGUAAAABAAAAAQAAAA==",
+  "m_EntryDataString": "AgAAAAAAAAAAAAAAAgAAADjHpM7/////AAAAAAAAAAABAAAAAQAAAP////8AAAAAAAAAAAIAAAABAAAA",
+  "m_ExtraDataString": "B0xVbml0eS5SZXNvdXJjZU1hbmFnZXIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsSlVuaXR5RW5naW5lLlJlc291cmNlTWFuYWdlbWVudC5SZXNvdXJjZVByb3ZpZGVycy5Bc3NldEJ1bmRsZVJlcXVlc3RPcHRpb25zsAIAAHsAIgBtAF8ASABhAHMAaAAiADoAIgAyAGYAOABiADgAZAA4ADcAYQA0ADMAYwBiADAANAA1ADIAYQAwADAAZABhAGUAOAA2ADcANwA0ADYAMwBkAGEAIgAsACIAbQBfAEMAcgBjACIAOgAyADMAMwAxADkANQAwADQAMwAwACwAIgBtAF8AVABpAG0AZQBvAHUAdAAiADoAMAAsACIAbQBfAEMAaAB1AG4AawBlAGQAVAByAGEAbgBzAGYAZQByACIAOgBmAGEAbABzAGUALAAiAG0AXwBSAGUAZABpAHIAZQBjAHQATABpAG0AaQB0ACIAOgAtADEALAAiAG0AXwBSAGUAdAByAHkAQwBvAHUAbgB0ACIAOgAwACwAIgBtAF8AQgB1AG4AZABsAGUATgBhAG0AZQAiADoAIgBkADEAZgA4AGUAMQA5AGQANQBiADYAZABhADQAMAA4ADMAYgAwADkANAAzAGIANABjADEAYwAzADQAMwA1ADgAIgAsACIAbQBfAEEAcwBzAGUAdABMAG8AYQBkAE0AbwBkAGUAIgA6ADAALAAiAG0AXwBCAHUAbgBkAGwAZQBTAGkAegBlACIAOgA1ADIAMgAwADIAOAA2ACwAIgBtAF8AVQBzAGUAQwByAGMARgBvAHIAQwBhAGMAaABlAGQAQgB1AG4AZABsAGUAcwAiADoAdAByAHUAZQAsACIAbQBfAFUAcwBlAFUAVwBSAEYAbwByAEwAbwBjAGEAbABCAHUAbgBkAGwAZQBzACIAOgBmAGEAbABzAGUALAAiAG0AXwBDAGwAZQBhAHIATwB0AGgAZQByAEMAYQBjAGgAZQBkAFYAZQByAHMAaQBvAG4AcwBXAGgAZQBuAEwAbwBhAGQAZQBkACIAOgBmAGEAbABzAGUAfQA=",
+  "m_resourceTypes": [
+    {
+      "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+    },
+    {
+      "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+    }
+  ],
+  "m_InternalIdPrefixes": []
+}
