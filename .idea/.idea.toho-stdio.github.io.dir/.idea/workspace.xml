@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="- Test template 023 024" />
+    <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.hash" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/ms_template_v001_024_000_sp.unity_2f8b8d87a43cb0452a00dae8677463da.bundle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,14 +87,7 @@
       <workItem from="1664792159674" duration="107000" />
       <workItem from="1664792811008" duration="2209000" />
       <workItem from="1665132692324" duration="3989000" />
-      <workItem from="1665999248487" duration="8071000" />
-    </task>
-    <task id="LOCAL-00038" summary="- Update build">
-      <created>1664339822756</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1664339822756</updated>
+      <workItem from="1665999248487" duration="8771000" />
     </task>
     <task id="LOCAL-00039" summary="- Update build">
       <created>1664340476202</created>
@@ -427,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666026962664</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="- Test template 023 024">
+      <created>1666027720633</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1666027720634</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
