@@ -6,9 +6,307 @@
   <component name="ChangeListManager">
     <list default="true" id="76eaad7d-2883-4111-a84d-3085426e9f68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.toho-stdio.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.hash" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.hash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.json" beforeDir="false" afterPath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/ms_template_v001_024_000_sp.unity_2f8b8d87a43cb0452a00dae8677463da.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.data.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.framework.js.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/LoadTemplate.wasm.unityweb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvenienceShopify.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/UnityServicesProjectConfiguration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/AddressablesLink/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/catalog.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamingAssets/aa/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/_shared/key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/_shared/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/fullscreen-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/webgl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/catalog_MS_Template_v001_018_000.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/e0ab994d515fcdd11a34ecb255d7e3de_unitybuiltinshaders_bf612fe3896a345370f13dd050b64f40.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/catalog_scene.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/catalog_scene.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/fonts/notosansjp-medium.asset_7379ee99c4366783d92599cece16ba89.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/fonts/notosansjp-medium.otf_a32a9e88f58b62c5c8a1d7252b02e8ae.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/fonts/notosansjp-mediumfallback.asset_f54c211b30569e450603b1980fa7e7aa.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/addmedia@2x.png_0b0d62026a67eda4a93ea3b00f985c37.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/addmedia_bo@2x.png_a97d059b46c7da50603529c0cd7db30c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/area.png_0e3d496edc741cb62728df080ea68308.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/area.png_88c96ed8144931b25a08313920907421.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/area_l.png_7ec2d8519f1bf221cf5d745f38deba2d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/emptypic.png_5254506e1959a1099ebfd7594fd88f9a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/exit_button.png_0fc617806113839a1e86346828b53a62.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/menu_button.png_71991fbe261ac679c756c93fcb66df08.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/metastore_logo.png_dc5fd220e0c4d9862c6b9c5a43c8c80f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/mute_2_button.png_68bb1be7a33e186141eb3cf35ad6f75e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/mute_button.png_39b835161aa38aa1204dbd98c2238b48.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/rectangle.png_3befe7c09dd05cceb7da9d073e4c2758.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/rectangle_ok.png_2143dade1e0425d6fa73698590019878.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tut_52e8b1cbdceeb9308307a181d224b77f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/1.png_4f82102ac26771b334f328c601898739.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/2.png_bb9e81ca1f32f183e5cd0819e9679eb4.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/3.png_99a1d6251e604bbab8b215e1ceef2f48.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/4.png_2db1e4dd562385fa5def07057b47a0fd.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/5.png_1416e65f77bc9b40160c95b59bc5e083.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/6.png_95b36268fef9d456d546f7164a0e266a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/7.png_6497d05dec9e53716a0a4a9776b98b07.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/8.png_d857914b873f294547fd7b8f6f862332.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording.png_8490f1764aedec920e35102e0add0ddf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording1.png_6f98b2b977247139a0e1369856db59ac.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording2.png_5021c41e33c8391f4220c4396401e40b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording3.png_5b5ff1723304c905a945f4ceb1ba88e7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording4.png_56208662e147ef95b68cd1bf6165b162.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording5.png_042836721a60d020b14a88be264903fd.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/tutorial/onbording6.png_40a1e6493503ac674d36522ec9c267b7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/voice_chat_button.png_e06b38ad64475f42986d7311036eb68b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/icon/update/voice_chat_counter.png_5ef1f03b4ef0a3bb1c2ddebc443c7f22.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/prefabs/addressableload/prefabload.prefab_5f1b47ec9214e765cd078d910ee0c131.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/bar.png_96fa8fbd59ced92f74158aae7ee30571.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/input.png_ee5cd31ed590516153112fba8ec1dfa7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/loading-343.png_ec8b59c0443e2d8a36436cbbfd27ccb7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/loading.png_eabc832a0b181f1ea9393fbd31ff9f2f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/progressbarbluegradient.png_6d31de57c92aa0512201c8c78b6becc4.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/progressbarcircle.png_b917ff5d7015a4715b888197e8de3db8.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/progressbarcirclebackground.png_ed40956eb8dbe12383bbf31197773685.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/progressbar/sprites/progressbarempty.png_c669f72bfff28ba7a91f44b32380a7d5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/back-icon.png_77dfec75b66f278f04d9a74713ba3006.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/backarrow-icon.png_e2dd7123e1d7bb76f37b45a09542f169.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/background.png_d2e1b925df5f910228f0f3f041565d95.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/badge-dual.png_878ed5e2576e2a4a158e604e1c44db74.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/badge-dual1.png_fcebdee70e1dcd371f8cbd2d97f53387.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/badge-single.png_cc7c8ee1f5d753c17c65a83c04468a14.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/badge-single1.png_aa63846f4f059aa90d26e7e30ea016a4.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/bg_blue.png_7dba9596b4bf495346e3277d79b448b2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/bg_image_outline.png_a24b2bcbaecbfc484d64a76ec731f598.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/bg_skylight.png_b64d4ea80ea400b56f94dd7f9890e65d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/bg_white.png_575e88cc9e42a97bddb483bf96303bf3.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/bottom_fade.png_6a8c77f0f672df711af6a1ab7bd577ee.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/brokenimageicon.png_a535aade6faa67d9d8b21ef323c14cc1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/btnprimary-default.png_3e116e2ee5387b169f8ab6d44f691db5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/btnprimary-disabled.png_dfdc57ac66cb731b183967778b892178.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/btnprimary-pressed.png_8889280ad9ab9d4d699e6db6daa1ac36.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/btnsecondary-default.png_db479214296e2676d2edff49edb3f887.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/btnsecondary-pressed.png_bbf78eaa15665c5d980960b984dca986.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/button-active.png_e7f5ef7ffedd40c5cc3272ed1841b7c3.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/button-disabled.png_b7170a7a75cc7e8490224807df3711a0.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/button-focus.png_c639bb796187c4d049a3b082dc1d5eb1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/button-hover.png_3a7d336194886b4690c85ffdc226233d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/buttondefault.png_1c190493981d42f052972d3b8f0bfbcf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/cart-icon.png_8634ad4c17e338a4b31cd490b955dd33.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/cart-icon1.png_c5aa5178e54bde73956bf0fc06a66a67.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/cart_button.png_e1e4a8461441fc61f2f370e92db6e2c2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/close-icon.png_9ef928cdb4b21fc8a5a9936963e2de70.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/close-icon1.png_d44a726a4d84d38accb7a26fd4cbaa97.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/count.png_52fa19d72145979bd34b17add6596c08.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/dropdown_background.png_03f2307c880cd5fa969c0adea4f48d9f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/dropdown_background_2.png_49613e68cf69cf0ee60172e7bdc0af46.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/flame.png_38fa0f22f802978bc26a1aa752806393.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/flame_2.png_e5e28ddc59f75b0d5eb70399cfafa918.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/largeimagebackground.png_585e268fa062dfe1d2bf53c06a83291e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/line_grey.png_9051e2e7fd12cf9403e8af285fdd4119.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/line_grey1.png_51f6cb9eede5522142a44e712e50f761.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/nav_bg.png_57ab733aed79f50da28ca7d336c95398.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/productlistimagebackground.png_51d3aa962cf3391a4fe6011b1b710b11.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/pulldown.png_e472cb20f506fa8d5a22cc3a9bf360d2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/quantitycontrolbackground.png_c037daf6f1fe46a65bd33b73dbff8410.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/shade.png_6b12c5c817773bf6b6f25c834dcb8cd7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/shoppanel.png_cdc98c9b4345a6ca5a45e380011dd80a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/smallimagebackground.png_717be0cbbea6dd51462f92732773c9bf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/smoke45frames.png_27166a0255bbdbce7dff9c1d21a2e15a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/smokematerial.mat_2d7d5e2b123ec23bc79f414d1504a9db.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/shopify/examples/images/vending_machine_bg.png_5b712fc3029444a3bd18d7bfa549996d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/arrow.png_26a751bf6a9d3533840b6454cca92516.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/arrowleft.png_e622475f1d9411f43590850ed6d2266a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/dropdown.png_35c7f8a8370357962481d0d6ffcea187.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/helpbutton.png_2747dde4a0d1c8d0cc6ff50168d89ffd.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/knob.png_40c638f0b91b6337cd59ef7ba39e82d1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/playbutton.png_b71b7cacb7029a9baa8811469c589a30.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/roundbutton.png_da17e7b89826a88114f0a7f74fc3efa5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/roundbuttonborder.png_f1ae1994ae0e30d8c96c5115a82cefbf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/trilib/trilibsamples/common/textures/stopbutton.png_f12c527cebd5e4815ae275422446ffe5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_assets_assets/voicechat/animatedloadingicons/spritesheet/iconsspritesheet.png_3952fd7fe766ddef7287cf3afb2fee4c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/defaultlocalgroup_scenes_assets/scenes/metastoremobile.unity_1da4eb0d3350d5b775c7354e1974305d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/scene/f44e4020b714c1c8721f60b85881337c_unitybuiltinshaders_d8bb9d74dfd0302178d41c3dd4e35b23.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/template_assets_assets/env_set/part_02/ms_env_v001_006_000/prefabs/ms_env_v001_006_000.prefab_2ecb27dfc5a19f03f61d94579cb76a2c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGL/template_scenes_assets/scenes/part_03/ms_template_v001_018_000_sp.unity_535e650c06de1490b952672d0e4304af.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_001_0101.prefab_00b3ff1a67bdc9cf3def41d6c5f18a19.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_002_0101.prefab_f801c1de4e610873d1f1d88abe16fcb6.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_003_0101.prefab_222bd5d27924822af95cfb7ab7f889a5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_004_0101.prefab_c5c629d6a80577918a5795fe9c106de2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_005_0101.prefab_d6c135bde6a69b09181397d6e702c200.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_006_0101.prefab_5917be3c827ebf695b17a60ff3e94f96.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_007_0101.prefab_c8985ff056119595a5d49af40cf4b1dc.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_008_0101.prefab_3923b58a6485f7298f20de6484b27c6a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_009_0101.prefab_e15d9b2d12672971d9e446d4cb75d215.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_010_0101.prefab_1fbc812a0a9f9b62dc6bbc2b62cfceab.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/avatar_assets_assets/avatar/msa_avatarcounter_v001_011_0101.prefab_92e8cc40f34d106dae27979f68dc23a0.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/catalog_funiture.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/catalog_funiture.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/builderchothes.mat_a4d3b26aa2cadd4269ba0bfc3aad101d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/builderskin.mat_d746bd089fb7d2e1d3424fa1b2a268d6.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/businessmanclothes.mat_db96729ec58255ad34759a6aa97edc10.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/businessmanskin.mat_361ad228a554a5d282f1e0371c5ae6e1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/cookclothes.mat_51657db66a38f660b1bd47c022c341a1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/cookskin.mat_4fcf60cfab86c0e0675d18ac0d96a135.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/designerclothes.mat_71458eae0b99cb258083246f198e8453.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/designerskin.mat_6e0cef3e61ca892b159f24448931ceff.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/doctorclothes.mat_38d505f177ace25ea9e0d0e80e4d34a9.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/doctorskin.mat_8b2848f5230a7085cfbf2031a2905ed5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/firemanclothes.mat_28368a63576262db55a9dd3b15ceac02.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/firemanskin.mat_36b41fa750623b85a7f4cbf5ddde2948.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/policeofficerclothes.mat_61056c2f64758daf9d63a5bff6dbd918.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/policeofficerskin.mat_35538453ad60270c612b2780c5193c2e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/postmanclothes.mat_0208e1d4d7fa8c9ee835a80eb6264adb.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/postmanskin.mat_c8703b352bc379864ed84fa1e6800510.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/stewardessclothes.mat_4b91b7f47c37cb2281ecaaa4e89e8eb5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/stewardessskin.mat_13f98658a7e4cb1fdceef0c30d2e50d9.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/teacherclothes.mat_1c502ad4b8eac054b10b49968ca0b588.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/materialswithtextures/teacherskin.mat_564f4c13ec2e4f0b47ff86f7e670b4cc.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/builder.png_317d9650bca51e0bad111ba59e1e4dbe.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/businessman.png_3198abc8a687640867876d10c15a90e2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/cook.png_dd7f0562319e335a1f701a15fe2e62a4.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/designer.png_1874ff2555a9ad6a784097781b436aea.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/doctor.png_fb9434ea22d44a8a313827f9cf46ba35.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/fireman.png_049418389f9fc31b9055d7c1644eb42a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/policeofficer.png_592e38358be5497eebc4e0b731daa797.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/postman.png_2b2340154d8b76406276e240bbb7fd8d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/stewardess.png_cadf58bb78ca0829218a10450bee2556.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/avater/mighty_handful/cartoonpeople(professions)/models/textures/teacher.png_ee9318faf51be1b4439a7e7f8dcde5de.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/base_msfurniture_part_03_shelf_20220811/materials/grossblack.mat_858aac448e8c594604766270b4e5abca.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/base_msfurniture_part_03_shelf_20220811/materials/woodbrown.mat_647ded035ce8f1a72b02a068ae90fe3f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/collection_spaceroughimage/202204_2_nakayagallary/materials/white.mat_976fbfaa9c88622c01213112686f8e99.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/voicechat/savepoint_effect_pack/material/par1_add.mat_d11b2b3fb6ec7e6efacc4eb1c6bc2542.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/voicechat/savepoint_effect_pack/material/par2_add.mat_164f7a47c8eac36ce27fcfd5e9b262a2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/voicechat/savepoint_effect_pack/material/par2_alpha.mat_f9d12ae1e0e03143fe7317aea4700b8d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/voicechat/savepoint_effect_pack/material/ring1_add.mat_4af757917eab3495e5fcd97891ee1576.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/defaultlocalgroup_assets_assets/voicechat/savepoint_effect_pack/material/ring2_alpha.mat_f242091febbb44fa39f7da748057c1aa.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_box_v001_001_1101.prefab_b32e5ef6ca0ed33c1cfff35a4c52eb81.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_box_v001_002_1101.prefab_40f5a8599aa067dc694a1df1dedecf9e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_1101.prefab_ff82e8d248dc3ffc3651d315a4d6e7ab.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_1201.prefab_5cd13614e4fe99e0bef37584f75d5b3f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_1301.prefab_98cd97349dc923c187c25e85d2e8b335.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_2101.prefab_f4767589036253ceb00e9455e5f35f71.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_2201.prefab_88d60a27830626249963081677c23aa8.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_001_2301.prefab_c9fe0db34b89a22574eab8c1b622275a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_002_1101.prefab_3e47a699ccbb601feab9aa8afd8eb6f5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_002_2101.prefab_cb75ac71d59f1e5c1d1584376889fd7b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_003_1101.prefab_a5657ebaaaf167f0dc41740c28125c94.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_003_1201.prefab_e73f1aa6a1cf224bc24f5662dca74caf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_003_2101.prefab_47c80ce0d8e6c3aa2577ba941642b872.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_freezer_v001_003_2201.prefab_a1c654f2b2ac0b7977c74fafeda4c880.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_hungerstand_v001_001_1101.prefab_803eb6679535e7be6ca50601601e0a51.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_hungerstand_v001_001_1201.prefab_3a403045440b5afd9f2cbe9932b49d96.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_hungerstand_v001_001_2101.prefab_4da9abc44ceedb56d859ae9ab9079e37.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_hungerstand_v001_001_2201.prefab_ae2d7f7d8adc06b512f0c0c905f07c11.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_001_1101.prefab_750d9c39742dfeb387dd7756c3e8d008.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_001_1201.prefab_a75b04eb75ba02cfcdd8715d5ea4db7e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_001_2101.prefab_7ea7c44a83075156973a3bbff822e349.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_001_2201.prefab_e7f6dbe8e6fedce60b7291b5dbeda961.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_002_1101.prefab_1095f783c76e8dca316edf4743ad8fb2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_002_1201.prefab_d133f0982855023952d9e1ddde397296.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_002_2101.prefab_88fec78a5d17abad674d5adad06ca1d7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_002_2201.prefab_3ede2d32f1d0e6b1e43087403263b8f9.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_002_3101.prefab_1700f637e76ad972a774c0e1beac1f45.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_003_1101.prefab_5c0f8be66499113d5f5ea455e90fc097.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_003_1201.prefab_2972d0713636667a605f94c9b7de467f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_003_1301.prefab_020066a565e58c176a9f4a2556b4f5ed.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_004_1101.prefab_1b6b5f191fa4b31050b847c70a7ec4ba.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_004_1201.prefab_95605000825fd43cc205152baf5794bf.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_005_1101.prefab_ce47f011f3c79eae072208909b75a988.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_005_1201.prefab_63c4ef33bab114c09ed3121cc8616b59.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_005_1301.prefab_e3ab0493653a85e3a3553cb2eb5141ee.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0100.prefab_707180f426ea0041c6e1568c3713f451.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0101.prefab_6b02fecd5c50bf7d151bef6581b850e2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0200.prefab_276211209c1a47ef15b7fa991dd811e5.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0201.prefab_e96a58b6b33d2f521f842abd57bdcf03.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0300.prefab_70a6b8adee9bcb7726a776cb5064d03c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_006_0301.prefab_b1fd72a834c10b2b7655d4e7f353d8c3.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0100.prefab_0cdf3692913bae30d61330855fefbc11.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0101.prefab_2c2601ac52395058ec92f3de7ce031ec.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0200.prefab_3db3ce59e1ef21544807a6286f7ae292.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0201.prefab_c6336720c400fd0fbb0f27bdfdf4b04a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0300.prefab_7c950a37d08221975557728b54d14d72.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_007_0301.prefab_6a7bcb8e016c470508cb32efb9b641a8.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0103.prefab_dceef1950b78f97e959fe911fbbe0b67.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0104.prefab_6adb95497afb6eac03bcc149ace8340a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0203.prefab_bdf12189be62ed95675555a10ee539a2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0204.prefab_2c0a46e3d656d8540784b7da21f2c476.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0303.prefab_c8c54232cc02a0c1a45fcb2c9a56b4e6.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0304.prefab_6b969b4f2788539a7e2a8567b2e65551.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0403.prefab_854dee099661eca8e6aa711c737cdf1d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0404.prefab_2b70b81a7b935233be4869705bd3f4fc.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0503.prefab_65ce337d7f6059946ab9ee7d5625577b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_008_0504.prefab_860f516e6ed29b5bd520e9e39af3a7ed.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0103.prefab_306e2b974e3a2db36e58a8d43f0e351d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0104.prefab_a2b1fe22cac3580b5b8f2d7ee325fca2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0203.prefab_13993ebb3d327807d9adf3f3947e39c9.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0204.prefab_1a78387babea095850696fe228bb4dc2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0303.prefab_9ad40742354f22bd56e4da2fb5d24c55.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_009_0304.prefab_8e01e534f58f8bb8221a80df01fadc0a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_010_0103.prefab_1874862fb43cfe46daca2352fde40022.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_010_0104.prefab_e9fd8220de5318432183a9f411cd7fbc.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_010_0203.prefab_777462b627e702367951cb2f771dd98e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_010_0204.prefab_16fe77607a431f8df81bdce6ffa41f7e.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0100.prefab_341b37191812e8fdf15a6a6825aa7595.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0101.prefab_fd53b7603319ce1587b1943fce447512.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0102.prefab_0b21152e26321a256b8e16786dd7df72.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0200.prefab_0c32511c689a7f36b6e9bc1fbbc7b0cb.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0201.prefab_e2060a79068c240ed76abafde1603fcd.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelf_v001_011_0202.prefab_0c89db36228c7466b8e634cd8a6442a3.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_shelfboard_v001_001_1101.prefab_c9f6322df297251a5bc307ae764086ff.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_showcase_v001_001_1101.prefab_bede2c6bbef3969b314c009abaa8bc1a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_001_1101.prefab_90d22981cae37913cc37addd6b67dd87.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_001_2101.prefab_64136b43becc38ba12c1d5141df2d896.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_001_3101.prefab_c557326f70715d490b5046e180451d4f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_1201.prefab_e2bc35414ff30cd3a184dddb99f19888.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_1301.prefab_a15799e4d3f5507665d43189e5976515.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_2201.prefab_419bc67d6e2091c92b25d066e674e90b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_2301.prefab_2e2b4d568547dd58b87f8869362c6bf7.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_3201.prefab_012ecc5d78c3e5ef808b22ecb14dafc8.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_stand_v001_002_3301.prefab_1bcc0a61e058079b99526f33364c70f3.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0101.prefab_b8395836b7ac455f50c0b5f4909e0c82.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0102.prefab_1d0cb2dddbd2ab736d1f41a88a0c9201.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0104.prefab_98f998f39ef860b38952ca46e05f080a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0201.prefab_e7e3f9786cb0db89f3a523ae74db8147.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0202.prefab_57988c8315eb638d7e127fca34c9177a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_001_0204.prefab_f58f7bb590a515794d8165c8ee63f13a.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_002_0100.prefab_9008d4c612fc80112be6a338c867e1a2.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_002_0101.prefab_e2da6b67c28192f7de9f1c65fa072f99.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_002_0200.prefab_b424f5e040b22f269ae8fd8795409343.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_002_0201.prefab_ff9a5b5a5dc2c087f2223ed1b45b27f1.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_003_0103.prefab_7325ca3dd3af21d8442ba37c65f5e257.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_003_0104.prefab_1f457bcd38f5efa1d451df8f22cb7ac0.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_003_0203.prefab_f5d2cb0bdf2044d5298e01f9c7b04331.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_table_v001_003_0204.prefab_c0d940069a522f5e80936ec396ffc034.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_transparent_v001_001.prefab_d35cb732524f5cf0b1429714e84a4e7d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msf_wagon_v001_001_1101.prefab_98b35a8d1f2f584cb0593beaf700fb47.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0101_1001.prefab_302a9b52171dec8a26e587431a22891b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0101_1001_c0100.prefab_618f2ef605e3c2e250acddff659d1d7b.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0102_1001.prefab_a278b617fd71bcf524f9bdf8b4b220ab.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0102_1001_c0200.prefab_15c9a29c74f66d5aa823a90dba6c207f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0201_1000.prefab_fe0770eedc4da0aab55ea8567d0d6604.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0201_1000_c0200.prefab_5ee0f9198c981e629214fd34ff522190.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0301_1000.prefab_fe809c1a50d41beb68023d112226b01f.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0301_1000_c0200.prefab_70e79d93105e24e2fd36c4270387754d.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0302_1000.prefab_b6bcda94c3476e4525fe16a4831a801c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/catalog/webgl/funiture/funiture_assets_assets/funiture/msu_booth_v001_0303_1000.prefab_2bc70ae42eef30f425fc574c8f039a2c.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_023_000.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/catalog_MS_Template_v001_024_000.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/e0ab994d515fcdd11a34ecb255d7e3de_unitybuiltinshaders_710f509825eab30485a54112d0bbd672.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/e0ab994d515fcdd11a34ecb255d7e3de_unitybuiltinshaders_d85e2d9f61c7a8bc025eb541bd09dece.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/e0ab994d515fcdd11a34ecb255d7e3de_unitybuiltinshaders_f74435272adf240a92599e96153d1d91.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/ms_template_v001_023_000_sp.unity_bf520122df580352131bbd575939c188.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityasset/template/v1/ms_template_v001_024_000_sp.unity_426d93488e67ec43997e134e2c035fcd.bundle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +327,9 @@
     </option>
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="sk09atlm" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,13 +389,8 @@
       <workItem from="1664792811008" duration="2209000" />
       <workItem from="1665132692324" duration="3989000" />
       <workItem from="1665999248487" duration="8771000" />
-    </task>
-    <task id="LOCAL-00039" summary="- Update build">
-      <created>1664340476202</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1664340476202</updated>
+      <workItem from="1666070034546" duration="1245000" />
+      <workItem from="1667308779385" duration="80000" />
     </task>
     <task id="LOCAL-00040" summary="- Update catalog.json">
       <created>1664340755207</created>
@@ -432,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666027720634</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="- Test template 023 024">
+      <created>1666070085183</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1666070085184</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
