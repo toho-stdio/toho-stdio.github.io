@@ -1,10 +1,19 @@
 {
-   "applinks": {
-       "apps": [],
-       "details": [
+  "applinks": {
+      "details": [
            {
-               "appID": "5EAB258S9R.com.hacosco.mirumar",
-               "paths": [ "/qr", "/qr/*" ]
+             "appIDs": [ "5EAB258S9R.com.hacosco.mirumar" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "/qr/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               },
+             ]
            }
        ]
    }
