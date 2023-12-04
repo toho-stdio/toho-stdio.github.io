@@ -1,0 +1,11 @@
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+           {
+               "appID": "5EAB258S9R.com.hacosco.mirumar",
+               "paths": [ "/qr", "/qr/*" ]
+           }
+       ]
+   }
+}
