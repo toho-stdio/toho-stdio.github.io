@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hacosco.mirumar",
+    "sha256_cert_fingerprints":
+    ["1B:43:19:1B:9B:4B:D3:EA:66:B3:54:1F:33:91:49:2C:B1:91:FB:25:92:4D:A3:8A:81:EF:0C:A3:17:5B:ED:AB"]
+  }
+}]
